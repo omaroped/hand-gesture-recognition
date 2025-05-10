@@ -71,4 +71,4 @@ python src/models/evaluate_model.py
 - Other dependencies listed in requirements.txt
 
 ## License
-MIT License 
+MIT License

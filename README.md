@@ -63,6 +63,27 @@ python src/models/evaluate_model.py
 - Model evaluation and visualization tools
 - Real-time gesture recognition capability
 
+## Model Performance
+The system includes multiple models with their accuracies:
+1. SVM: 97% accuracy
+2. Random Forest: 95% accuracy
+3. KNN: 94% accuracy
+4. Decision Tree: 89% accuracy
+
+## Version History
+
+### v1.0.0 (Initial Release)
+- Basic gesture recognition with white background
+- Support for multiple ML models
+- Real-time recognition capability
+- Debug mode for confidence scores
+
+### v1.1.0 (In Development)
+- Improved background handling
+- Hand detection and segmentation
+- Better real-world environment support
+- Enhanced visualization and feedback
+
 ## Requirements
 - Python 3.8+
 - OpenCV
